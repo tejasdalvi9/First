@@ -1,4 +1,6 @@
-a=int(input("Enter a number : ")) #modified in local 
-b=int(input("Enter 2nd number : ")) 
+
+a=int(input("Enter a number : ")) # this is modified in local
+b=int(input("Enter 2nd number : ")) #this is modified in github
 print("Addition : ",a+b)
-print("line added by local") #added in local
+#this is line is in local and this is modified in github
+#this is not in local
